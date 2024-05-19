@@ -1,0 +1,5 @@
+<meta>
+     <info author="Sanya"/>
+     <script src="hello.lua" type="server"/>
+     <script src="chatmessage.lua" type="client" />
+</meta>
